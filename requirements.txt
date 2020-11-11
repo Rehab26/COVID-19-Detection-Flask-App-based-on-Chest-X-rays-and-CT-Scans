@@ -2,4 +2,4 @@ flask
 tensorflow
 matplotlib
 numpy
-cv2
+opencv-python
